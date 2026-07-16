@@ -1,0 +1,12 @@
+{
+  "name": "doc-companion",
+  "description": "文档随行插件市场：让 AI 改码时文档、台账与索引始终同步",
+  "owner": { "name": "Aqr-K" },
+  "plugins": [
+    {
+      "name": "docc",
+      "source": "./",
+      "description": "文档随行组件包：.docc 映射 + 三档 hook + preflight/postflight/init skills + drift-checker agent"
+    }
+  ]
+}

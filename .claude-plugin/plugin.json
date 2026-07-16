@@ -1,0 +1,10 @@
+{
+  "name": "docc",
+  "displayName": "Doc Companion",
+  "description": "文档随行：事前哈希制导漂移对拍、事中提醒/契约门、事后台账与索引盖章（归一化内容哈希(git blob 口径,node:crypto)，零 npm 依赖，fail-open）。",
+  "version": "0.9.1",
+  "author": { "name": "Aqr-K" },
+  "repository": "https://github.com/Aqrk-Dev/doc-companion",
+  "license": "MIT",
+  "keywords": ["documentation", "hooks", "drift-detection", "ledger"]
+}
